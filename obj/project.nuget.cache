@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4vXLZEqgr2f1rJfz2L3atV0bOHj0Wo6/fDgMOtSH1xLoepByQtdvQTTGqTb0v8JjGb/aPOwyI/wpedFYNwqyVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devin\\source\\repos\\fSharp\\fSharp\\sample_F#_Proj.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devin\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\devin\\.nuget\\packages\\suave\\2.6.2\\suave.2.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
